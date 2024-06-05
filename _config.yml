@@ -1,14 +1,16 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Biming Zhou | 周铋洺
+position: second year Ph.D. student
+affiliation: Fudan University
+email: bmzhou[at]m[dot]fudan[dot]edu[dot]cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+# keywords: minimal light
+description: My name is Biming Zhou (周铋洺). I am a second-year Ph.D. student at the Fudan University, Shanghai. My supervisor is Yunlei Zhao.
+My research interests are mainly in post-quantum cryptography, lattice based cryptography. 
+
+#canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
