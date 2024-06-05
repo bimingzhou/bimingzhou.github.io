@@ -12,6 +12,6 @@ I am a Ph.D. student at ...
 
 ## News
 
-#- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 
 
