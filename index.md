@@ -14,27 +14,27 @@ My research focuses on **post-quantum cryptography**.
 ## Publications  
 \* indicates equal contribution.
 
-#### **CuKEM: A Concise and Unified Hybrid Key Encapsulation Mechanism**  
+**CuKEM: A Concise and Unified Hybrid Key Encapsulation Mechanism**  
 **Yiting Liu\*, Biming Zhou\*, Haodong Jiang**  
 *CCS 2025*  
 [ePrint 2025/1862](https://eprint.iacr.org/2025/1862)
 
 ---
 
-### **Post-Quantum TLS 1.3 Handshake from CPA-Secure KEMs with Tighter Reductions**  
+**Post-Quantum TLS 1.3 Handshake from CPA-Secure KEMs with Tighter Reductions**  
 **Jinrong Chen\*, Biming Zhou\*, Rongmao Chen, Haodong Jiang, Yi Wang, Xinyi Huang, Yunlei Zhao, Moti Yung**  
 ePrint: [2025/1748](https://eprint.iacr.org/2025/1748)
 
 ---
 
-### **CPA-secure KEMs Are Also Sufficient for Post-Quantum TLS 1.3**  
+**CPA-secure KEMs Are Also Sufficient for Post-Quantum TLS 1.3**  
 **Biming Zhou, Haodong Jiang, Yunlei Zhao**  
 *ASIACRYPT 2024*  
 [ePrint 2024/1360](https://eprint.iacr.org/2024/1360)
 
 ---
 
-### **SoK: Post-Quantum Key Encapsulation Mechanisms — Security Definitions, Constructions, and Applications**  
+**SoK: Post-Quantum Key Encapsulation Mechanisms — Security Definitions, Constructions, and Applications**  
 **Biming Zhou, Yiting Liu, Haodong Jiang, Yunlei Zhao**  
 *SSR 2024*  
 [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-87541-0_6)
