@@ -39,5 +39,3 @@ https://link.springer.com/chapter/10.1007/978-3-031-87541-0_6
 Zhaoman Liu, Biming Zhou, Yunlei Zhao  
 *IEEE Transactions on Dependable and Secure Computing (TDSC), to appear 2025*
 
-
-{% include_relative _includes/services.md %}
