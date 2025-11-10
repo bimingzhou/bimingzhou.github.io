@@ -4,12 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My name is Biming Zhou (周铋洺). I’m a fourth-year PhD student at Fudan University, supervised by **[Yunlei Zhao](https://cs.fudan.edu.cn/3f/ba/c25909a278458/page.htm)**. I am also fortunate to work closely with Haodong Jiang since 2023. My research focuses on post-quantum cryptography.
 
 ## News
 
@@ -19,5 +14,4 @@ I am a Ph.D. student at ...
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
