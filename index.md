@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-My name is **Biming Zhou (周铋洺)**. I’m a fourth-year PhD student at Fudan University, supervised by  
+My name is Biming Zhou (周铋洺). I’m a fourth-year PhD student at Fudan University, supervised by  
 **[Yunlei Zhao](https://cs.fudan.edu.cn/3f/ba/c25909a278458/page.htm)**.  
-I am also fortunate to work closely and be advised by **Haodong Jiang** since 2023.  
-My research focuses on **post-quantum cryptography**.
+I am also fortunate to work closely and be advised by Haodong Jiang since 2023.  
+My research focuses on post-quantum cryptography.
 
 ## Publications  
 \* indicates equal contribution.
