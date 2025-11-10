@@ -41,6 +41,13 @@ ePrint: [2025/1748](https://eprint.iacr.org/2025/1748)
 
 ---
 
+**Enhancing Redactable Blockchain with Robust and Efficient Threshold Redaction**  
+**Zhaoman Liu, Biming Zhou, Yunlei Zhao**  
+*To appear, IEEE Transactions on Dependable and Secure Computing 2025*  
+
+---
+
+
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.  
