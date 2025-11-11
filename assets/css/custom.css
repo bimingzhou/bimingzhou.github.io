@@ -1,7 +1,10 @@
-/* ✅ 完整：把头像变成正圆且不拉伸 */
+/* assets/css/custom.css */
 .image.avatar img {
-    width: 150px;        /* 你想要的尺寸：可改成 180px/200px */
-    height: 150px;       /* 必须与 width 相同，圆形关键！ */
-    object-fit: cover;   /* 裁剪溢出，保持不变形 */
-    border-radius: 50%;  /* 让正方形变成完美圆形 */
+  width: 180px;        /* 自定尺寸 */
+  height: 180px;       /* 与 width 一致 */
+  aspect-ratio: 1 / 1; /* 保障正方形 */
+  object-fit: cover;   /* 裁剪避免拉伸 */
+  border-radius: 50%;  /* 正圆 */
+  display: block;
 }
+
