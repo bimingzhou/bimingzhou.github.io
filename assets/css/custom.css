@@ -21,14 +21,3 @@
   margin: 0;                  /* 清理可能的 margin:auto 居中 */
   float: none !important;     /* 若主题早先用 float，强制取消 */
 }
-
-/* （可选）移动端仍想居中显示，可加这段 */
-@media (max-width: 640px) {
-  .wrapper header {
-    display: block;
-    text-align: center;
-  }
-  .image.avatar {
-    margin: 0 auto 12px;
-  }
-}
