@@ -1,33 +1,12 @@
-/* 让 header 不再在左侧，而是移动到页面最上方 */
-.wrapper header{
-  position: static;
-  float: none;
-  width: auto;
-  text-align: center;
-  padding: 2rem 0 1rem;
+/* 放大发头像尺寸：你可调整为 160px, 180px, 200px */
+.image.avatar img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;  /* 保持圆形 */
 }
 
-/* 默认主题会给 section 一个左边距；把它取消 */
-.wrapper section{
-  margin-left: 0;
-}
-
-/* 头像居中、放大 */
-.image.avatar{
-  display: block;
-  margin: 0 auto 1rem;
-}
-.image.avatar img{
-  width: 200px;   /* 你可以改成 220 / 250 / 300 */
-  height: 200px;
-  object-fit: cover;
-  border-radius: 50%;
-}
-
-/* 标题等文字居中 */
-header h1,
-header position,
-header email,
-header .social-icons{
-  text-align: center;
+/* 为更稳妥的布局，让 header 自动适配更大的头像 */
+.wrapper header {
+    padding-top: 20px;
 }
