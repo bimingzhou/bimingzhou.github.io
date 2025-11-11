@@ -1,4 +1,4 @@
-/* 让 header 不再作为左侧栏，而是占满上方 */
+/* 让 header 不再在左侧，而是移动到页面最上方 */
 .wrapper header{
   position: static;
   float: none;
@@ -7,36 +7,27 @@
   padding: 2rem 0 1rem;
 }
 
-/* 内容区不再为让位左侧栏而留出左边距 */
+/* 默认主题会给 section 一个左边距；把它取消 */
 .wrapper section{
   margin-left: 0;
 }
 
-/* 头像放到中间并放大 */
+/* 头像居中、放大 */
 .image.avatar{
   display: block;
   margin: 0 auto 1rem;
 }
 .image.avatar img{
-  width: 180px;            /* 自行调大小，如 160/200/220 */
-  height: 180px;
+  width: 200px;   /* 你可以改成 220 / 250 / 300 */
+  height: 200px;
   object-fit: cover;
   border-radius: 50%;
 }
 
-/* 整体居中排版 */
-.wrapper{
-  max-width: 900px;        /* 可按需调整页面宽度 */
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-/* 标题与职位等居中显示 */
+/* 标题等文字居中 */
 header h1,
 header position,
 header email,
 header .social-icons{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
