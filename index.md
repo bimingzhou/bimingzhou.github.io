@@ -10,6 +10,8 @@ My name is **Biming Zhou (周铋洺)**. I’m a fourth-year PhD student at Fudan
 ## Publications  
 \* indicates equal contribution.
 
+### Conference
+
 **CuKEM: A Concise and Unified Hybrid Key Encapsulation Mechanism**  
 Yiting Liu\*, Biming Zhou\*, Haodong Jiang  
 *CCS 2025*  
@@ -32,7 +34,7 @@ Biming Zhou, Yiting Liu, Haodong Jiang, Yunlei Zhao
 *SSR 2024*  
 [SSR 2024-6](https://link.springer.com/chapter/10.1007/978-3-031-87541-0_6)
 
-
+### Journal
 **Enhancing Redactable Blockchain with Robust and Efficient Threshold Redaction**  
 Zhaoman Liu, Biming Zhou, Yunlei Zhao  
 *IEEE Transactions on Dependable and Secure Computing (TDSC), to appear 2025*
