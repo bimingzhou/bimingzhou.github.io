@@ -29,7 +29,7 @@ Biming Zhou, Haodong Jiang, Yunlei Zhao
 
 **SoK: Post-Quantum Key Encapsulation Mechanisms — Security Definitions, Constructions, and Applications**  
 Biming Zhou, Yiting Liu, Haodong Jiang, Yunlei Zhao  
-*SSR 2024*  
+*Security Standardisation Research (SSR) 2024*  
 [SSR 2024-6](https://link.springer.com/chapter/10.1007/978-3-031-87541-0_6)
 
 **Enhancing Redactable Blockchain with Robust and Efficient Threshold Redaction**  
