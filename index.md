@@ -34,8 +34,8 @@ Biming Zhou, Yiting Liu, Haodong Jiang, Yunlei Zhao
 
 **Enhancing Redactable Blockchain with Robust and Efficient Threshold Redaction**  
 Zhaoman Liu, Biming Zhou, Yunlei Zhao  
-*IEEE Transactions on Dependable and Secure Computing (TDSC), to appear 2025*
-
+*IEEE Transactions on Dependable and Secure Computing (TDSC), 2025*  
+[TDSC 2025](https://ieeexplore.ieee.org/document/11260636)
 
 ## Serveics
 I serve as an external reviewer for Asiacrypt 2025 and PKC 2026.
