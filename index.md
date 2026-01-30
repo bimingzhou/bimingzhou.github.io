@@ -10,16 +10,17 @@ My name is **Biming Zhou (周铋洺)**. I’m a fourth-year PhD student at Fudan
 ## Publications  
 \* indicates equal contribution.
 
+**Post-Quantum TLS 1.3 Handshake from CPA-Secure KEMs with Tighter Reductions**  
+Jinrong Chen\*, Biming Zhou\*, Rongmao Chen, Haodong Jiang, Yi Wang, Xinyi Huang, Yunlei Zhao, Moti Yung  
+*EUROCRYPT 2026*  
+[ePrint 2025/1748](https://eprint.iacr.org/2025/1748)
+
+
 **CuKEM: A Concise and Unified Hybrid Key Encapsulation Mechanism**  
 Yiting Liu\*, Biming Zhou\*, Haodong Jiang  
 *CCS 2025*  
 [ePrint 2025/1862](https://eprint.iacr.org/2025/1862)
 
-
-**Post-Quantum TLS 1.3 Handshake from CPA-Secure KEMs with Tighter Reductions**  
-Jinrong Chen\*, Biming Zhou\*, Rongmao Chen, Haodong Jiang, Yi Wang, Xinyi Huang, Yunlei Zhao, Moti Yung  
-*ePrint 2025/1748*  
-[ePrint 2025/1748](https://eprint.iacr.org/2025/1748)
 
 **CPA-secure KEMs Are Also Sufficient for Post-Quantum TLS 1.3**  
 Biming Zhou, Haodong Jiang, Yunlei Zhao  
