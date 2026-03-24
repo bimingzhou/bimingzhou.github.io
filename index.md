@@ -10,6 +10,12 @@ My name is **Biming Zhou (周铋洺)**. I’m a fourth-year PhD student at Fudan
 ## Publications  
 \* indicates equal contribution.
 
+**Hybrid KEM Constructions from Classical PKEs and Post-Quantum KEMs**  
+Biming Zhou, Yukai Zhang, Haodong Jiang, Yunlei Zhao
+*ePrint* 
+[ePrint 2026/569](https://eprint.iacr.org/2026/569)
+
+
 **Post-Quantum TLS 1.3 Handshake from CPA-Secure KEMs with Tighter Reductions**  
 Jinrong Chen\*, Biming Zhou\*, Rongmao Chen, Haodong Jiang, Yi Wang, Xinyi Huang, Yunlei Zhao, Moti Yung  
 *EUROCRYPT 2026*  
