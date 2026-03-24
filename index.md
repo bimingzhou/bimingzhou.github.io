@@ -11,8 +11,8 @@ My name is **Biming Zhou (周铋洺)**. I’m a fourth-year PhD student at Fudan
 \* indicates equal contribution.
 
 **Hybrid KEM Constructions from Classical PKEs and Post-Quantum KEMs**  
-Biming Zhou, Yukai Zhang, Haodong Jiang, Yunlei Zhao
-*ePrint* 
+Biming Zhou, Yukai Zhang, Haodong Jiang, Yunlei Zhao  
+*ePrint*  
 [ePrint 2026/569](https://eprint.iacr.org/2026/569)
 
 
