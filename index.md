@@ -15,9 +15,6 @@ Yunlei Zhao\*, Biming Zhou\*, ZhixiangZhao\*, Yifan Dong, Cheng Huang, Haodong J
 *CRYPTO 26*
 to appear 
 
-*ePrint*  
-[ePrint 2026/569](https://eprint.iacr.org/2026/569)
-
 **Hybrid KEM Constructions from Classical PKEs and Post-Quantum KEMs**  
 Biming Zhou, Yukai Zhang, Haodong Jiang, Yunlei Zhao  
 *ePrint*  
