@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 My name is **Biming Zhou (周铋洺)**. I’m a fourth-year PhD student at Fudan University, supervised by  
-**[Yunlei Zhao](https://cs.fudan.edu.cn/3f/ba/c25909a278458/page.htm)**. I have also been fortunate to be advised by **Haodong Jiang** since 2024. My research focuses on post-quantum cryptography, especially post-quantum authenticated key exchange and key encapsulation mechanisms, with applications to real-world protocols such as TLS 1.3.
+**[Yunlei Zhao](https://cs.fudan.edu.cn/3f/ba/c25909a278458/page.htm)**. I have also been fortunate to be advised by **Haodong Jiang** since 2024. My research focuses on post-quantum cryptography, especially post-quantum authenticated key exchange(AKE) and key encapsulation mechanism(KEM), with applications to real-world protocols such as TLS 1.3.
 
 ## Publications  
 \* indicates equal contribution.
