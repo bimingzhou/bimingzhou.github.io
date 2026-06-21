@@ -49,5 +49,7 @@ Zhaoman Liu, Biming Zhou, Yunlei Zhao
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2025*  
 [TDSC 2025](https://ieeexplore.ieee.org/document/11260636)
 
-## Serveics
-I serve as an external reviewer for Asiacrypt 2025 and PKC 2026. 
+## Professional Services
+I serve as a Program Committee member for ACM AsiaCCS 2027.
+
+I have served as an external reviewer for ASIACRYPT 2025 and PKC 2026.
