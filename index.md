@@ -13,6 +13,7 @@ My name is **Biming Zhou (周铋洺)**. I’m a fourth-year PhD student at Fudan
 **Post-Quantum Internet Key Exchange via Authenticated Forward-Secure KEM**  
 Yunlei Zhao\*, Biming Zhou\*, ZhixiangZhao\*, Yifan Dong, Cheng Huang, Haodong Jiang  
 *CRYPTO 2026*  
+[ePrint 2026/569](https://eprint.iacr.org/2026/1581)
 to appear 
 
 **Hybrid KEM Constructions from Classical PKEs and Post-Quantum KEMs**  
