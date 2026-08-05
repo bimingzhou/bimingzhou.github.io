@@ -1,6 +1,8 @@
----
+--- 
 
-## layout: homepage
+layout: homepage 
+
+--- 
 
 ## About Me
 
