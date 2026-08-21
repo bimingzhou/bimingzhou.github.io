@@ -7,10 +7,16 @@ layout: homepage
 My name is **Biming Zhou (周铋洺)**. I’m a fourth-year PhD student at Fudan University, supervised by  
 **[Yunlei Zhao](https://cs.fudan.edu.cn/3f/ba/c25909a278458/page.htm)**. I have also been fortunate to be advised by **Haodong Jiang** since 2024. I expect to graduate in July 2027.
 
-My research focuses on post-quantum cryptography, especially post-quantum authenticated key exchange(AKE) and key encapsulation mechanism(KEM), with applications to real-world protocols such as TLS 1.3.
+My research focuses on post-quantum cryptography, especially post-quantum authenticated key exchange (AKE) and key encapsulation mechanisms (KEMs), with applications to real-world protocols such as TLS 1.3.
 
-## Publications  
+## Publications
+
 \* indicates equal contribution.
+
+**Tightly Secure and Modular Post-Quantum TLS Handshakes**  
+Biming Zhou\*, Jinrong Chen\*, Haodong Jiang, Rongmao Chen, Yunlei Zhao  
+*ASIACRYPT 2026*
+
 
 **Post-Quantum Internet Key Exchange via Authenticated Forward-Secure KEM**  
 Yunlei Zhao\*, Biming Zhou\*, Zhixiang Zhao\*, Yifan Dong, Cheng Huang, Haodong Jiang  
@@ -20,7 +26,7 @@ Yunlei Zhao\*, Biming Zhou\*, Zhixiang Zhao\*, Yifan Dong, Cheng Huang, Haodong 
 
 **Hybrid KEM Constructions from Classical PKEs and Post-Quantum KEMs**  
 Biming Zhou, Yukai Zhang, Haodong Jiang, Yunlei Zhao  
-*ePrint*  
+*IACR ePrint 2026/569*  
 [ePrint 2026/569](https://eprint.iacr.org/2026/569)
 
 
@@ -47,12 +53,14 @@ Biming Zhou, Yiting Liu, Haodong Jiang, Yunlei Zhao
 *Security Standardisation Research (SSR) 2024*  
 [SSR 2024-6](https://link.springer.com/chapter/10.1007/978-3-031-87541-0_6)
 
+
 **Enhancing Redactable Blockchain with Robust and Efficient Threshold Redaction**  
 Zhaoman Liu, Biming Zhou, Yunlei Zhao  
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2025*  
 [TDSC 2025](https://ieeexplore.ieee.org/document/11260636)
 
 ## Professional Services
+
 I serve as a Program Committee member for ACM AsiaCCS 2027.
 
 I have served as an external reviewer for ASIACRYPT 2025 and PKC 2026.
