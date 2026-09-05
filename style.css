@@ -1,18 +1,18 @@
 :root {
   color-scheme: light;
-  --ink: #233343;
-  --body: #435362;
-  --muted: #5c6c7a;
-  --accent: #315f80;
-  --navy: #132c3d;
-  --line: #dce4ea;
-  --wash: #deedf8;
-  --page: #ffffff;
-  --selected-panel: #f1f6fa;
-  --other-panel: #f7f8f9;
-  --research-line: #bfcfdc;
-  --venue-bg: #e7eff5;
-  --focus: #397caa;
+  --ink: #26312f;
+  --body: #46504d;
+  --muted: #5f6b66;
+  --accent: #2d625d;
+  --navy: #213d37;
+  --line: #d9dfd8;
+  --wash: #f0f1ec;
+  --page: #faf9f6;
+  --selected-panel: #edf3ef;
+  --other-panel: #f2f0ea;
+  --research-line: #b6c9be;
+  --venue-bg: #e0eae3;
+  --focus: #286e61;
   --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
   --text-small: .875rem;
   --text-body: 1rem;
@@ -22,18 +22,18 @@
 @media screen {
   :root[data-theme="dark"] {
     color-scheme: dark;
-    --ink: #e7edf3;
-    --body: #c4cfd9;
-    --muted: #a7b7c6;
-    --accent: #a8ccea;
-    --line: #344452;
-    --wash: #18222d;
-    --page: #111922;
-    --selected-panel: #172733;
-    --other-panel: #1d252f;
-    --research-line: #516d83;
-    --venue-bg: #263c4f;
-    --focus: #90c5ed;
+    --ink: #eef2ed;
+    --body: #cbd4ce;
+    --muted: #adb9b1;
+    --accent: #a8d4c3;
+    --line: #39483f;
+    --wash: #222d28;
+    --page: #171d1b;
+    --selected-panel: #1f2e28;
+    --other-panel: #2a2e28;
+    --research-line: #628270;
+    --venue-bg: #30473b;
+    --focus: #a8d4c3;
   }
 }
 * { box-sizing: border-box; }
@@ -58,15 +58,15 @@ h1, h2, h3, h4 { color: var(--ink); margin: 0; font-family: var(--sans); font-we
 .affiliation { font-size: .9375rem; line-height: 1.7; margin: 0; }
 .affiliation span { color: var(--ink); }
 .page-tools { display: flex; justify-content: flex-end; max-width: 1280px; margin: auto; padding: .85rem 3rem 0; }
-.theme-toggle { display: flex; align-items: center; gap: .65rem; min-height: 44px; padding: .5rem .8rem; border: 1px solid var(--research-line); border-radius: 5px; color: var(--ink); background: var(--wash); font: inherit; font-size: .9375rem; line-height: 1.4; text-align: left; cursor: pointer; }
+.theme-toggle { display: flex; align-items: center; gap: .65rem; min-height: 44px; padding: .5rem .8rem; border: 1px solid var(--research-line); border-radius: 5px; color: var(--ink); background: var(--page); font: inherit; font-size: .9375rem; line-height: 1.4; text-align: left; cursor: pointer; }
 .theme-toggle:hover { background: var(--venue-bg); }
 .theme-toggle:focus-visible { outline: 2px solid var(--focus); outline-offset: 4px; }
 .theme-toggle:disabled { cursor: default; }
 .theme-toggle > svg { flex-shrink: 0; }
-.theme-switch { width: 30px; height: 18px; flex-shrink: 0; margin-left: auto; border-radius: 20px; background: #496779; padding: 3px; }
-.theme-switch::after { content: ""; display: block; width: 12px; height: 12px; border-radius: 50%; background: #f1f6fa; }
-.theme-toggle[aria-checked="true"] .theme-switch { background: #90c5ed; }
-.theme-toggle[aria-checked="true"] .theme-switch::after { transform: translateX(12px); background: #132c3d; }
+.theme-switch { width: 30px; height: 18px; flex-shrink: 0; margin-left: auto; border-radius: 20px; background: var(--muted); padding: 3px; }
+.theme-switch::after { content: ""; display: block; width: 12px; height: 12px; border-radius: 50%; background: var(--page); }
+.theme-toggle[aria-checked="true"] .theme-switch { background: var(--accent); }
+.theme-toggle[aria-checked="true"] .theme-switch::after { transform: translateX(12px); }
 .navigation { border-top: 1px solid var(--line); margin-top: 1.15rem; padding-top: .7rem; display: flex; flex-direction: column; gap: .05rem; text-align: center; }
 .navigation a { display: block; color: var(--body); padding: .4rem .6rem; border-radius: 4px; text-decoration: none; font-size: .9375rem; line-height: 1.5; }
 .navigation a:hover { color: var(--accent); background: var(--venue-bg); }
@@ -178,5 +178,5 @@ footer a { color: var(--muted); text-decoration: none; }
   .main-column { padding: 0; }
   .section { margin-top: 1.6rem; }
   .paper { break-inside: avoid; }
-  .publication-group { background: white; border-color: #dfe6eb; }
+  .publication-group { background: white; border-color: #d3d6d1; }
 }
