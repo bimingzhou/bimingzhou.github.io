@@ -98,7 +98,8 @@ h2 { font: 600 var(--text-section)/1.35 var(--sans); letter-spacing: -.025em; ma
 .paper:last-child { border-bottom: none; padding-bottom: .25rem; }
 .paper-topline { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: .5rem 1rem; margin-bottom: .65rem; }
 .venue-line { display: flex; align-items: center; gap: .8rem; flex-wrap: wrap; }
-.venue { font-size: .8125rem; letter-spacing: .015em; font-weight: 600; line-height: 1.5; color: var(--accent); padding: .2rem .5rem; background: var(--venue-bg); border-radius: 4px; }
+.venue { font-size: .8125rem; letter-spacing: .015em; font-weight: 600; line-height: 1.5; color: var(--accent); padding: .2rem .5rem; background: var(--venue-bg); border-radius: 4px; text-decoration: none; }
+.venue:hover { color: var(--ink); text-decoration: underline; }
 .year { letter-spacing: 0; margin-left: .2rem; font-variant-numeric: tabular-nums; }
 .publication-status { color: var(--muted); font-size: var(--text-small); }
 .paper-download { flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center; gap: .4rem; min-height: 34px; padding: .3rem .65rem; color: var(--accent); border: 1px solid var(--research-line); border-radius: 5px; font-size: var(--text-small); font-weight: 500; line-height: 1.4; text-decoration: none; }
@@ -114,6 +115,8 @@ h2 { font: 600 var(--text-section)/1.35 var(--sans); letter-spacing: -.025em; ma
 .service-list { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0; font-family: var(--sans); }
 .service-list dt { font-size: var(--text-body); font-weight: 600; line-height: 1.5; color: var(--ink); margin-bottom: .3rem; }
 .service-list dd { font-size: var(--text-body); font-weight: 400; line-height: 1.75; color: var(--body); margin: 0; }
+.service-list a { color: var(--accent); text-decoration: underline; text-decoration-color: var(--research-line); }
+.service-list a:hover { color: var(--ink); text-decoration-color: currentColor; }
 .contact { padding: 1.8rem 0 2rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin-top: 2.8rem; }
 .contact h2 { margin-bottom: 1.25rem; }
 .contact-links { display: flex; align-items: baseline; flex-wrap: wrap; gap: .65rem 1.65rem; }
