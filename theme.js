@@ -29,7 +29,7 @@
     button = document.getElementById('theme-toggle');
     if (!button) return;
     applyPreference();
-    button.hidden = false;
+    button.disabled = false;
     button.addEventListener('click', function () {
       preference = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
       applyTheme(preference);
