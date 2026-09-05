@@ -107,9 +107,9 @@ h2 { font: 400 2.05rem/1.25 var(--serif); letter-spacing: -.035em; margin-bottom
 .authors strong { color: var(--ink); font-weight: 600; }
 .publication-note { font-size: .875rem; color: var(--muted); margin: .5rem 0 0; line-height: 1.65; }
 .service { padding-top: 2rem; border-top: 1px solid var(--line); }
-.service-list { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0; }
-.service-list dt { font-size: .875rem; color: var(--muted); margin-bottom: .4rem; }
-.service-list dd { font-size: 1rem; color: var(--ink); margin: 0; }
+.service-list { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0; font-family: var(--sans); }
+.service-list dt { font-size: 1rem; font-weight: 600; line-height: 1.5; color: var(--ink); margin-bottom: .5rem; }
+.service-list dd { font-size: 1rem; font-weight: 400; line-height: 1.75; color: var(--body); margin: 0; }
 .contact { padding: 1.8rem 0 2rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin-top: 2.8rem; }
 .contact h2 { font-size: 1.8rem; margin-bottom: .9rem; }
 .contact-links { display: flex; align-items: baseline; flex-wrap: wrap; gap: .65rem 1.65rem; }
