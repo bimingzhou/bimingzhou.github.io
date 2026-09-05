@@ -6,8 +6,8 @@
   --accent: #315f80;
   --navy: #132c3d;
   --line: #dce4ea;
-  --wash: #f3f5f7;
-  --page: #fdfdfc;
+  --wash: #eef5fa;
+  --page: #ffffff;
   --selected-panel: #f1f6fa;
   --other-panel: #f7f8f9;
   --research-line: #bfcfdc;
@@ -136,13 +136,13 @@ footer a { color: var(--muted); text-decoration: none; }
 @media (max-width: 800px) {
   .shell { display: block; padding: 1rem 1.5rem 1.5rem; max-width: 760px; }
   .page-tools { padding-inline: 1.5rem; max-width: 760px; }
-  .sidebar { position: static; max-height: none; overflow: visible; display: block; padding: 1.25rem; }
-  .profile-photo { width: 160px; margin-inline: auto; }
-  .identity { margin: .8rem 0 0; text-align: center; }
+  .sidebar { position: static; max-height: none; overflow: visible; display: grid; grid-template-columns: 160px minmax(0, 1fr); gap: 0 1.25rem; padding: 1.25rem; }
+  .profile-photo { grid-column: 1; grid-row: 1; width: 100%; margin: 0; align-self: center; }
+  .identity { grid-column: 2; grid-row: 1; min-width: 0; margin: 0; text-align: left; align-self: center; }
   .identity h1 { font-size: 1.5rem; }
   .chinese-name { font-size: .9375rem; margin: .2rem 0 .4rem; }
   .affiliation { font-size: .875rem; line-height: 1.6; }
-  .navigation { flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 0 .35rem; max-width: 34rem; margin: .9rem auto 0; padding-top: .5rem; }
+  .navigation { grid-column: 1 / -1; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 0 .35rem; width: 100%; margin: .7rem 0 0; padding-top: .4rem; }
   .navigation a { display: flex; align-items: center; justify-content: center; min-height: 40px; padding: .25rem .5rem; font-size: .875rem; white-space: nowrap; }
   .main-column { padding-top: 1.75rem; }
   .about h2 { font-size: 1.875rem; }
@@ -153,8 +153,9 @@ footer a { color: var(--muted); text-decoration: none; }
   .shell { padding: .75rem 1rem 1rem; }
   .page-tools { padding: .65rem 1rem 0; }
   .theme-toggle { font-size: .875rem; gap: .5rem; padding: .4rem .65rem; }
-  .sidebar { padding: 1.15rem 1rem 1rem; }
-  .profile-photo { width: clamp(144px, 40vw, 160px); }
+  .sidebar { grid-template-columns: clamp(112px, 36vw, 144px) minmax(0, 1fr); column-gap: .75rem; padding: 1rem; }
+  .identity h1 { font-size: clamp(1.125rem, 5.5vw, 1.375rem); }
+  .chinese-name { font-size: .875rem; margin: .2rem 0 .5rem; }
   .navigation a { padding-inline: .4rem; }
   :root { --text-section: 1.5rem; }
   .about h2 { font-size: 1.75rem; }
